@@ -6,7 +6,7 @@ This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog Hardw
 
 The ALU performs basic arithmetic and logical operations based on a 3-bit selection input.
 
-🎯 Objective
+ Objective
 
 To design, simulate, and synthesize an 8-bit ALU using Verilog HDL and understand the basic operations of digital circuits.
 
@@ -98,7 +98,5 @@ The synthesis report and circuit diagram are included in this repository.
 - Extend the ALU to 16-bit or 32-bit.
 - Implement additional status flags.
 - Test the design on FPGA hardware
-
-Department: Electronics and Communication Engineering (ECE)
 
 Project: 8-Bit ALU Using Verilog HDL
